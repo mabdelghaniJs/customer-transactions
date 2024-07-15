@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.chart-container {
+  width: 600px;
+  height: 500px;
+  /* display: 'flex'; */
+  justify-content: center;
+  align-Items: center;
+  margin: 0 auto;
+  margin-Top: 100px;
+};
